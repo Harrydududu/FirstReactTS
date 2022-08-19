@@ -7,3 +7,5 @@ const center = (props: Props) => {
     <div>center</div>
   )
 }
+
+const test = {}
