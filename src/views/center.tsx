@@ -1,5 +1,7 @@
 import React from 'react'
 
+const addTest2 = {}
+
 type Props = {}
 
 const center = (props: Props) => {
