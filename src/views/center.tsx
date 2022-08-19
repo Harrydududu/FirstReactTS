@@ -9,3 +9,5 @@ const center = (props: Props) => {
 }
 
 const test = {}
+
+const addTest = {}
